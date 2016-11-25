@@ -2,3 +2,4 @@ Cabecera modificada
 Banner cambiado
 Estilo del menú color azul
 Descrp
+Texto de la información
