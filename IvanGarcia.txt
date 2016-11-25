@@ -1,6 +1,4 @@
 Cabecera modificada
 Banner cambiado
 Estilo del menú color azul
-Añadida descripción
-Cambiado texto de información
-Reparacion del bug.
+Descrp
